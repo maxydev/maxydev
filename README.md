@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on<br>
-🌱 I’m currently learning<br>
+🔭 I’m currently working on web development with Python. <br>
+🌱 I’m currently learning bass fishing!<br>
 💬 Ask me about space!<br>
 ⚡ Fun fact
 

@@ -3,9 +3,9 @@
 # 💫 About Me:
 
 🔭 I’m currently working on web development with Python. <br>
-🌱 I’m currently learning bass fishing!<br>
+🌱 I’m currently learning bass fishing and RUST!<br>
 💬 Ask me about space!<br>
-⚡ Fun fact
+☀️ Fun fact, the Sun is Earth's closest star.
 
 
 # 💻 Tech Stack:
